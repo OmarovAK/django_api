@@ -1,0 +1,6 @@
+Django
+bs4
+djangorestframework
+lxml
+psycopg2-binary
+requests
