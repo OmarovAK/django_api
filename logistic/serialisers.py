@@ -27,5 +27,5 @@ class SerializerStockProduct(ModelSerializer):
     class Meta:
         model = StockProduct
         fields = [
-            'stock', 'product', 'quantity', 'price'
+           'id', 'stock', 'product', 'quantity', 'price'
         ]
